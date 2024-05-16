@@ -1,4 +1,4 @@
-# bucks2bar
+# Bucks2Bar
 
 This is a web project called "bucks2bar" that utilizes the latest version of Bootstrap. It provides a responsive and visually appealing user interface for a web application.
 
